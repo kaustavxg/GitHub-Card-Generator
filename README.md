@@ -44,9 +44,7 @@ A simple web application that allows users to generate a GitHub profile card by 
 
 ---
 
-## 🔗 Demo
-
-Live demo: _Coming Soon or Host on GitHub Pages_
+## 🔗 [Live Demo](https://github-card-generator-gilt.vercel.app)
 
 ---
 
